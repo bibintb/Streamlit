@@ -2,6 +2,8 @@
 
 ## Documentation 
 
+https://docs.streamlit.io/library/get-started/installation 
+
 
 ## Installation 
 
@@ -13,7 +15,6 @@
 https://www.youtube.com/watch?v=Yk-unX4KnV4
 
 
-https://docs.streamlit.io/library/get-started/installation 
 
 
 https://streamlit.io/
