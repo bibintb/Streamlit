@@ -1,9 +1,9 @@
 # Streamlit
 
-##Documentation 
+## Documentation 
 
 
-##Instalation 
+## Installation 
 
 (need informations)
 
